@@ -1,4 +1,4 @@
-# swot_data_stats
+# daac_data_stats
 
 ## coverage_cycles_passes
 
